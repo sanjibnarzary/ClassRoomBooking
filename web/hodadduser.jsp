@@ -1,7 +1,8 @@
 <%-- 
     Document   : register
     Created on : 13 Aug, 2010, 9:05:09 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
