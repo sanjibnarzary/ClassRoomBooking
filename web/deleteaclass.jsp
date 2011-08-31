@@ -1,7 +1,8 @@
 <%-- 
     Document   : deleteaclass
     Created on : 15 Aug, 2010, 5:47:02 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
