@@ -1,7 +1,8 @@
 <%-- 
     Document   : readme
     Created on : 16 Aug, 2010, 5:50:46 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
