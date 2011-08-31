@@ -1,7 +1,8 @@
 <%-- 
     Document   : viewwaitinglist
     Created on : 21 Aug, 2010, 3:27:47 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
