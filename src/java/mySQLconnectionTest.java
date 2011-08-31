@@ -5,7 +5,8 @@
 
 /**
  *
- * @author root
+ * @Author: Sanjib Narzary
+ * @Email: o-._.-o@live.com
  */
 import java.sql.Statement;
 import java.sql.Connection;
