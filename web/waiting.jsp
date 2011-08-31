@@ -1,7 +1,8 @@
 <%-- 
     Document   : waiting
     Created on : 21 Aug, 2010, 2:37:16 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 
