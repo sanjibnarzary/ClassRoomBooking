@@ -1,7 +1,8 @@
 <%--
     Document   : bookaroomprocess
     Created on : 15 Aug, 2010, 5:36:38 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page import="java.text.SimpleDateFormat"%>
