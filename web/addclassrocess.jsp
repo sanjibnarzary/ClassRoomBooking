@@ -1,7 +1,8 @@
 <%-- 
     Document   : addclassrocess
     Created on : 15 Aug, 2010, 5:42:12 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
