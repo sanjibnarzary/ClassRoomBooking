@@ -1,0 +1,44 @@
+/* 
+    Document   : style
+    Created on : 14 Aug, 2010, 6:55:54 PM
+    Author     : root
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+  padding: 2em 3em 2em 10em;
+  margin: 0;
+  font-family: sans-serif;
+  color: black;
+  background: white;
+  background-position: top left;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+body {
+   background-image: url(./images/background.png);
+}
+table{
+            border: brown;
+            display: block;            
+        }
+        a{
+            text-decoration: none;
+        }
+        p blockquote{
+            color: gray;
+            font-family: sans-serif;
+            font-style: oblique;
+}
+h1,h2,h3{
+    color: darkgray;
+
+}
+
+
+
+
