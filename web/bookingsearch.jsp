@@ -1,7 +1,8 @@
 <%--
     Document   : bookaroom
     Created on : 15 Aug, 2010, 5:03:28 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
