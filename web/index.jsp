@@ -1,7 +1,8 @@
 <%-- 
     Document   : index
     Created on : 13 Aug, 2010, 5:27:15 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    @email     : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
