@@ -1,7 +1,8 @@
 <%-- 
     Document   : forgot-password
     Created on : 16 Aug, 2010, 8:39:19 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
