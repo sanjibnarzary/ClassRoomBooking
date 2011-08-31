@@ -1,7 +1,8 @@
 <%-- 
     Document   : logout
     Created on : 13 Aug, 2010, 5:41:46 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
