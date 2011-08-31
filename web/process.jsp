@@ -1,7 +1,8 @@
 <%-- 
     Document   : checkLogin
     Created on : 13 Aug, 2010, 5:42:58 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
