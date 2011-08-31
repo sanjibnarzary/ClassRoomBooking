@@ -5,6 +5,7 @@ To run this project you need to have following Softwares
   2. Netbeans IDE 6.9 or later
   3. Apache Tomcat 6 or Glassfish
   4. MySQL Server + Client 5
+  5. MySQL Connector J5.1 or later
 
 If you have all the above requirements then download this source code and exatract it. Then you will get a 
 ClassRoomProject folder. Import the project using netbeans project Importer.
