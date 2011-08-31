@@ -1,7 +1,8 @@
 <%-- 
     Document   : addroomprocess
     Created on : 14 Aug, 2010, 10:48:26 PM
-    Author     : root
+    Author     : Sanjib Narzary
+    Email      : o-._.-o@live.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
